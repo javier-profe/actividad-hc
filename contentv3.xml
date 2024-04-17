@@ -157,7 +157,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="11538"></int>
+                 <int value="11558"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -171,7 +171,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="51_1.92"></unicode>
+               <unicode value="51_1.93"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="5">
                 <dictionary>
@@ -182,7 +182,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="De_que.png"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\De_que.png"></string>
+                 <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\De_que.png"></string>
                  <string role="key" value="checksum"></string>
                  <string value="eade50cecbbd9f3dac704d5f1ba1b7db"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -211,7 +211,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="intlinks_to_anchors"></string>
           <dictionary></dictionary>
           <string role="key" value="nextImageId"></string>
-          <int value="93"></int>
+          <int value="94"></int>
           <string role="key" value="parentNode"></string>
           <reference key="4"></reference>
          </dictionary>
@@ -310,7 +310,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="11544"></int>
+                 <int value="11564"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -324,7 +324,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="76_85.21"></unicode>
+               <unicode value="76_85.22"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="8">
                 <dictionary>
@@ -335,7 +335,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="piqsels.com-id-zkmvz.jpg"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\piqsels.com-id-zkmvz.jpg"></string>
+                 <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\piqsels.com-id-zkmvz.jpg"></string>
                  <string role="key" value="checksum"></string>
                  <string value="35476d00a40091a2c98a048dbec9b44e"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -364,7 +364,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="intlinks_to_anchors"></string>
           <dictionary></dictionary>
           <string role="key" value="nextImageId"></string>
-          <int value="22"></int>
+          <int value="23"></int>
           <string role="key" value="parentNode"></string>
           <reference key="4"></reference>
          </dictionary>
@@ -458,7 +458,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="11545"></int>
+                 <int value="11565"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -472,7 +472,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="46_1.63"></unicode>
+               <unicode value="46_1.64"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="11">
                 <dictionary>
@@ -483,7 +483,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="Relacion.png"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Relacion.png"></string>
+                 <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Relacion.png"></string>
                  <string role="key" value="checksum"></string>
                  <string value="a9407620146e7d41884d881018bd689a"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -512,7 +512,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="intlinks_to_anchors"></string>
           <dictionary></dictionary>
           <string role="key" value="nextImageId"></string>
-          <int value="64"></int>
+          <int value="65"></int>
           <string role="key" value="parentNode"></string>
           <reference key="4"></reference>
          </dictionary>
@@ -635,7 +635,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11543"></int>
+                    <int value="11563"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -649,7 +649,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="42_1.63"></unicode>
+                  <unicode value="42_1.64"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="15">
                    <dictionary>
@@ -660,7 +660,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="Objetivos.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Objetivos.png"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Objetivos.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="e1426223206110cbb9a8bf1a0a84d559"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -689,7 +689,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="64"></int>
+             <int value="65"></int>
              <string role="key" value="parentNode"></string>
              <reference key="14"></reference>
             </dictionary>
@@ -781,7 +781,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11540"></int>
+                    <int value="11560"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -795,7 +795,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="43_1.63"></unicode>
+                  <unicode value="43_1.64"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="18">
                    <dictionary>
@@ -806,7 +806,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="Evaluacion.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Evaluacion.png"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Evaluacion.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="62400e6e1f845d0f7228bdc60f6453e3"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -835,7 +835,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="64"></int>
+             <int value="65"></int>
              <string role="key" value="parentNode"></string>
              <reference key="14"></reference>
             </dictionary>
@@ -974,7 +974,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11535"></int>
+                    <int value="11555"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -988,7 +988,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="527_85.45"></unicode>
+                  <unicode value="527_85.46"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="22">
                    <dictionary>
@@ -999,7 +999,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="Contenidos.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Contenidos.png"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Contenidos.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="b46196d6841119e1d943071757eb07e6"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1028,7 +1028,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="46"></int>
+             <int value="47"></int>
              <string role="key" value="parentNode"></string>
              <reference key="21"></reference>
             </dictionary>
@@ -1139,7 +1139,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11526"></int>
+                    <int value="11546"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1153,7 +1153,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="47_1.62"></unicode>
+                  <unicode value="47_1.63"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="25">
                    <dictionary>
@@ -1164,7 +1164,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="Ayuda.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Ayuda.png"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Ayuda.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="a8e7334c19d39385f026272f4a3021d7"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1193,7 +1193,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="63"></int>
+             <int value="64"></int>
              <string role="key" value="parentNode"></string>
              <reference key="21"></reference>
             </dictionary>
@@ -1394,7 +1394,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;h2&gt;Crear y compartir la Hoja de cálculo&lt;/h2&gt;
 Esta práctica consiste en hacer una copia de una hoja de cálculo para manipular posteriormente los datos que contiene y presentar la información de una forma adecuada. &lt;br /&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;Lo primero que tienes que hacer es COPIAR (&lt;strong&gt;Archivo / Hacer una copia&lt;/strong&gt;) los datos con los que debes trabajar en tu Drive:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify; margin-left: 30px;&quot;&gt;&lt;strong&gt;COPIA: &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1E4eoMGh4R8OomeIMVv1Nx7enEx8FzY9X5CsOaeQFkrQ/edit?usp=sharing&quot;&gt;Hoja de cálculo con los datos de inicio&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify; margin-left: 30px;&quot;&gt;&lt;strong&gt;COPIA: &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1s1b17r7CQtCj31HA3K9RWArFFf6tT9BMWNQqWFCqx1E/edit?usp=sharing&quot;&gt;Hoja de cálculo con los datos de inicio&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p style=&quot;margin-left: 30px;&quot;&gt;&lt;img src=&quot;resources/copiar.png&quot; alt=&quot;Copiar Hoja de cálculo&quot; title=&quot;Copiar Hoja de cálculo&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;434&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;En todo momento, la práctica debes trabajarla con las hojas de cálculo de Google Drive. Es decir, en ningún caso hay que descargarse la hoja a tu PC.&lt;/p&gt;
@@ -1505,7 +1505,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11527"></int>
+                    <int value="11547"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1519,7 +1519,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.144"></unicode>
+                  <unicode value="45_1.156"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="31">
                    <dictionary>
@@ -1530,7 +1530,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="Captura.1.PNG"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Captura.1.PNG"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Captura.1.PNG"></string>
                     <string role="key" value="checksum"></string>
                     <string value="c1995ab969aeea238f50c75103e847b9"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1557,7 +1557,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11528"></int>
+                    <int value="11548"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1571,7 +1571,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.145"></unicode>
+                  <unicode value="45_1.157"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="32">
                    <dictionary>
@@ -1582,7 +1582,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="Captura.2.PNG"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Captura.2.PNG"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Captura.2.PNG"></string>
                     <string role="key" value="checksum"></string>
                     <string value="92cb31eafd8ea9271bad8c3fff1d8f3f"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1609,7 +1609,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11529"></int>
+                    <int value="11549"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1623,7 +1623,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.146"></unicode>
+                  <unicode value="45_1.158"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="33">
                    <dictionary>
@@ -1634,7 +1634,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="Captura.3.PNG"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Captura.3.PNG"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Captura.3.PNG"></string>
                     <string role="key" value="checksum"></string>
                     <string value="250cc495c89b957599b4476a46421f2e"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1661,7 +1661,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11530"></int>
+                    <int value="11550"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1675,7 +1675,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.147"></unicode>
+                  <unicode value="45_1.159"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="34">
                    <dictionary>
@@ -1686,7 +1686,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="Captura.4.PNG"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Captura.4.PNG"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Captura.4.PNG"></string>
                     <string role="key" value="checksum"></string>
                     <string value="51071261dcda8c96eb74944739fd8880"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1713,7 +1713,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11531"></int>
+                    <int value="11551"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1727,7 +1727,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.148"></unicode>
+                  <unicode value="45_1.160"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="35">
                    <dictionary>
@@ -1738,7 +1738,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="Captura.5.PNG"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Captura.5.PNG"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Captura.5.PNG"></string>
                     <string role="key" value="checksum"></string>
                     <string value="21daaa3690cd8e0a1e89cc4ddd455503"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1765,7 +1765,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11532"></int>
+                    <int value="11552"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1779,7 +1779,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.149"></unicode>
+                  <unicode value="45_1.161"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="36">
                    <dictionary>
@@ -1790,7 +1790,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="Captura.6.PNG"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Captura.6.PNG"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Captura.6.PNG"></string>
                     <string role="key" value="checksum"></string>
                     <string value="7f7d653f3dbc85720859362514a3e1e1"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1817,7 +1817,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11533"></int>
+                    <int value="11553"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1831,7 +1831,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.150"></unicode>
+                  <unicode value="45_1.162"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="37">
                    <dictionary>
@@ -1842,7 +1842,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="Captura.7.PNG"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Captura.7.PNG"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Captura.7.PNG"></string>
                     <string role="key" value="checksum"></string>
                     <string value="57eccd84107f25caf5c72f90799d1286"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1869,7 +1869,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11534"></int>
+                    <int value="11554"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1883,7 +1883,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.151"></unicode>
+                  <unicode value="45_1.163"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="38">
                    <dictionary>
@@ -1894,7 +1894,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="Captura.PNG"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Captura.PNG"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Captura.PNG"></string>
                     <string role="key" value="checksum"></string>
                     <string value="a0638eca7cacd8877b499c055e7414f4"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1921,7 +1921,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11536"></int>
+                    <int value="11556"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1935,7 +1935,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.152"></unicode>
+                  <unicode value="45_1.164"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="39">
                    <dictionary>
@@ -1946,7 +1946,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="copiar.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\copiar.png"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\copiar.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="1c6cf1ec65b1ff417a32687d86098966"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1973,7 +1973,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11537"></int>
+                    <int value="11557"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1987,7 +1987,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.153"></unicode>
+                  <unicode value="45_1.165"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="40">
                    <dictionary>
@@ -1998,7 +1998,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="Desarrollo.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Desarrollo.png"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Desarrollo.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="a48b53e001c446279621671f735d8ed1"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2025,7 +2025,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11541"></int>
+                    <int value="11561"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -2039,7 +2039,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.154"></unicode>
+                  <unicode value="45_1.166"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="41">
                    <dictionary>
@@ -2050,7 +2050,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="grafico.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\grafico.png"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\grafico.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="8213aa6c67d9dcd48373a86ae0e67098"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2077,7 +2077,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11542"></int>
+                    <int value="11562"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -2091,7 +2091,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="45_1.155"></unicode>
+                  <unicode value="45_1.167"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="42">
                    <dictionary>
@@ -2102,7 +2102,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
                     <string role="key" value="_storageName"></string>
                     <string value="grafico_columnas.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\grafico_columnas.png"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\grafico_columnas.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="8031fce907234923c3fa432975648188"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2131,7 +2131,7 @@ Debes insertar una fila al principio de los datos de forma que puedas poner un t
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="156"></int>
+             <int value="168"></int>
              <string role="key" value="parentNode"></string>
              <reference key="30"></reference>
             </dictionary>
@@ -2237,7 +2237,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="11539"></int>
+                    <int value="11559"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -2251,7 +2251,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="48_1.62"></unicode>
+                  <unicode value="48_1.63"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="45">
                    <dictionary>
@@ -2262,7 +2262,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="Entrega.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp7ke85p\\Entrega.png"></string>
+                    <string value="c:\\users\\fjvg\\appdata\\local\\temp\\tmp9mkddh\\Entrega.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="46dca327efd534ea4591a821c2f479db"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2291,7 +2291,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="63"></int>
+             <int value="64"></int>
              <string role="key" value="parentNode"></string>
              <reference key="30"></reference>
             </dictionary>
@@ -2522,7 +2522,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="30"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
